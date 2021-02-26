@@ -1,4 +1,4 @@
-const double = (num) => x * 3;
+const double = (num) => x * 2;
 
 const x = 2;
 double(2);
